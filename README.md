@@ -15,11 +15,14 @@ This project focuses on analyzing **Greenweed Company’s operational and financ
 - Calculated total and range margins, average gross and operational margins, and trends over time
 
 ## Results
-- Total Revenue: **$335,506.26**
-- Total Margin: **$146,816.52**
-- Average Gross Margin per Order: **$25.13**
-- Average Operational Margin per Order: **$15.92**
-- Observed trends in daily revenues, costs, and margins to support decision-making
+The analysis of Greenweed’s October 2021 data revealed several key insights:
+
+- Revenue and operational activity showed consistent daily performance with noticeable fluctuations.
+- Profitability remained solid, with both gross and operational margins maintaining healthy levels.
+- Advertising and order volumes contributed meaningfully to overall margins, highlighting the importance of marketing efficiency.
+- Trends observed in costs, revenue, and margins provide actionable insights for optimizing operations and strategic decision-making.
+- Overall, the project demonstrates how raw operational data can be transformed into meaningful business insights.
+
 
 ## Full Dataset
 You can explore the full dataset here:  
