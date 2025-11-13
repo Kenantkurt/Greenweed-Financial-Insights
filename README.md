@@ -11,7 +11,7 @@ This project analyzes **Greenweed Company’s operational and financial data for
 
 ## What I Did
 
-- Collected and cleaned Greenweed’s daily operational and financial data  
+- Collected and cleaned Greenweed’s daily operational and financial date  
 - Calculated **daily and total revenues, costs, and margins**  
 - Computed **average gross and operational margins**  
 - Analyzed **advertising performance and total order volumes**  
