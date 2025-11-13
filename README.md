@@ -71,6 +71,14 @@ These insights can support strategic decisions around budgeting, marketing alloc
 You can explore the full dataset here:  
 👉 **[Greenweed October 2021 Dataset](https://docs.google.com/spreadsheets/d/17Ue5y0KaHSAZ1glaB03LmCfkqrIaGOze/edit?usp=sharing&ouid=109822152577589454538&rtpof=true&sd=true)**
 
+## 🔖 Topics / Hashtags
+
+`#DataAnalysis` `#FinancialAnalysis` `#Excel`  
+`#GoogleSheets` `#BusinessIntelligence`  
+`#RevenueAnalysis` `#CostAnalysis`  
+`#MarginAnalysis` `#KPI` `#DataDriven`
+
+
 
 
 
