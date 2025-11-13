@@ -1,4 +1,4 @@
-# Greenweed Data Analysis – October 2021
+# Greenweez Data Analysis – October 2021
 
 This project focuses on analyzing **Greenweed Company’s operational and financial data for October 2021**. The goal was to extract key insights and assess profitability, costs, and advertising performance.
 
